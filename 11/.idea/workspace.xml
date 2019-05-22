@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Projects/cloudpass-api-java" value="2950161354433" />
+        <entry key="$USER_HOME$/Desktop/Projects/cloudsafe-server-java" value="2947535709919" />
+        <entry key="$USER_HOME$/Projects/compiler" value="2963170275280" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/finals_projs/rest-api-seed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/practiceProjs/rest-api-seed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/practiceProjs/scriptTest/test-script" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/rest-api-seed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/sp_assignments/sp10_orm_inheritence/orm3-inheritance" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/sp_assignments/sp1_threading/deadlocks" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/sp_assignments/sp1_threading/rest-api-seed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/sp_assignments/sp2_jpa/rest-api-seed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/sp_assignments/sp3_jpa/jpa_school4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/sp_assignments/sp3_jpa/jpa_school_2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/sp_assignments/sp3_jpa/rest-api-seed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/sp_assignments/sp8_rest/jpa_rest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/sp_assignments/sp9_rest_json/jpa_rest_json" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/finals_prog/testFinals/test-rest-api-seed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/java/ORMPractice/rest-api-seed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/java/assignments/CA2/jersey-hibernate-base" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../3semester/java/assignments/CA2/rest-api-seed" value="PREVIEW" />
+        <entry key="$USER_HOME$/java/2semester/fog" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="63" />
+    <option name="y" value="24" />
+    <option name="width" value="1857" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/nodejs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

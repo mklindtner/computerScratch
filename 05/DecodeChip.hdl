@@ -1,0 +1,22 @@
+/**
+outputs different values used in CPU
+*/
+CHIP DecodeChip {
+    IN i, d1, d2, d3;
+    // add inc
+    OUT writeM, loadA, loadD;
+    PARTS:
+
+    // load A
+    Not(in=i, out=negI);
+    Or(a=negI, b=d1, out=loadA);
+
+    // load D
+    And(a=i, b=d2, out=loadD);
+
+    //writeM
+    And(a=i, b=d3, out=writeM);
+
+
+
+}

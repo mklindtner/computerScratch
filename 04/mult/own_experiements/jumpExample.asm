@@ -1,0 +1,10 @@
+@0
+M=0
+@4
+D=M
+@HEST 
+D;JEQ
+@5
+D=A
+(HEST)
+0;JMP

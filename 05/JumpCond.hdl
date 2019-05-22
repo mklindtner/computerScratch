@@ -1,0 +1,51 @@
+/**
+jump condition for CPU
+zr=0, ng<0, pos>0
+out=1 
+    if JGT then J3 & POS
+    if JEQ then J2 & zr
+    if JGE then J2,J3 & zr|pos
+    if JLT then J1 & ng
+    if JNE then J1,J3 & pos|zr
+    if JLE then j1,J2 & zr|ng    
+    if J1, J2, J3
+**/
+CHIP JumpCond {
+    IN zr, ng, J3, J2, J1;
+    OUT out;
+
+    PARTS:
+//pos
+    Not(in=zr, out=z1);
+    Not(in=ng, out=n1);
+    And(a=z1, b=n1, out=pos);
+//JGT
+    And(a=J3, b=pos, out=JGT);
+//JEG
+    And(a=J2, b=zr, out=JEQ);
+//JGE
+    Or(a=zr, b=pos, out=zrPos);
+    And(a=J2, b=J3, out=J2J3);
+    And(a=zrPos, b=J2J3, out=JGE);
+//JLT
+    And(a=J1, b=ng, out=JLT);
+//JNE
+    And(a=J1, b=J3, out=J1J3);
+    Or(a=pos, b=ng, out=ngPos);
+    And(a=J1J3, b=ngPos, out=JNE);
+//JLE
+    And(a=J1, b=J2, out=J1J2);
+    Or(a=zr, b=ng, out=zrNg);
+    And(a=J1J2, b=zrNg, out=JLE);
+
+//checkJump
+    Or8Way(in[0]=JGT, in[1]=JEQ, in[2]=JGE, in[3]=JLT, in[4]=JNE, in[5]=JLE, in[6]=false, 
+    in[7]=false, out=shouldJump);
+    And(a=J1, b=J2, out=anyJ1J2);
+    And(a=anyJ1J2, b=J3, out=anyJ1J2J3);
+    Not(in=anyJ1J2J3, out=anyJ);
+    And(a=shouldJump, b=anyJ, out=hasJump);
+//checkAll
+    Or(a=anyJ1J2J3, b=hasJump, out=out);
+}
+
