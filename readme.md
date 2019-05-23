@@ -19,5 +19,15 @@ project 07-08: VM-Assembler
         -tests were premade to ensure correct output
     *note
         -a dir must containt a Sys.vm file otherwise it'll fail
+    
+    ***make .gitignore file) make readme --> each proj, what it's about, what i did) fix compiler 10/11 to work on remote dirs
 
-     ***cp and rename VM_1 into proj 07 & 08
+
+
+project 10-11: Jack Compiler
+
+
+book: *link to book here / *www.nand2tetris.org
+
+    
+

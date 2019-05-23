@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f941fa2f-f03c-455e-9eae-37c6eacba508" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../n2t-software-suite/bin/Assembler.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../n2t-software-suite/bin/Assembler.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02/FullAdder.out" beforeDir="false" afterPath="$PROJECT_DIR$/../02/FullAdder.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04/fill/Fill.asm" beforeDir="false" afterPath="$PROJECT_DIR$/../04/fill/Fill.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05/DecodeChip.hdl" beforeDir="false" afterPath="$PROJECT_DIR$/../05/DecodeChip.hdl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08/VMTranslator" beforeDir="false" afterPath="$PROJECT_DIR$/../08/VMTranslator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/ArrayTest/Main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/ArrayTest/MainT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/JackCompiler" beforeDir="false" afterPath="$PROJECT_DIR$/../10/JackCompiler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler" beforeDir="false" afterPath="$PROJECT_DIR$/JackCompiler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JackCompiler/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/JackCompiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/JackCompiler/JackCompiler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/Ball.jack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/Ball.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/Bat.jack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/Bat.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/Main.jack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/Main.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/PongGame.jack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/PongGame.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/tmp/Ball.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/tmp/Ball_pretty.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/tmp/Bat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/tmp/Bat_pretty.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/tmp/Main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/tmp/Main_pretty.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/tmp/PongGame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/tmp/PongGame_pretty.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/Pong/tmp/_no_comments.jack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/prevEngines/CompilationEngine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/prevEngines/OldCompilationEngine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/prevEngines/nsl_Compilation_Engine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/tmp/Main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/tmp/Main_no_comments.jack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/tmp/pretty_Main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/vm_compiler/VMWriter.py" beforeDir="false" afterPath="$PROJECT_DIR$/JackCompiler/vm_compiler/VMWriter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackCompiler/xml_compiler/JackAnalyser.py" beforeDir="false" afterPath="$PROJECT_DIR$/JackCompiler/xml_compiler/JackAnalyser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Square/Square.jack" beforeDir="false" afterPath="$PROJECT_DIR$/Square/Square.jack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13/more fun to go.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="FileColors">
     <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
     <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
     <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -46,13 +96,50 @@
     <option name="width" value="1857" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="11" type="462c0819:PsiDirectoryNode" />
+              <item name="JackCompiler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/bin/nodejs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -139,8 +226,48 @@
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f941fa2f-f03c-455e-9eae-37c6eacba508" name="Default Changelist" comment="" />
+      <created>1558539802903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558539802903</updated>
+      <workItem from="1558539804165" duration="782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="782000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="63" y="-4" width="1857" height="1084" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958587" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="masterDetails">
     <states>
