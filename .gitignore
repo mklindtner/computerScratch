@@ -93,3 +93,6 @@ modules.xml
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/pycharm+all
+06/Assembler/Old/__pycache__/
+06/Assembler/venv/include/
+07/VMTranslator/venv/include/
