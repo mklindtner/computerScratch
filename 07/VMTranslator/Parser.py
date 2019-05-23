@@ -114,12 +114,3 @@ class Parser:
     def arg2(self, line):
         return int(line[2])
 
-
-
-#make not initalize
-#parser.move_file_to_dist("/home/mkl/Dropbox/Datamatiker/4semester/IoT/VMTranslator/SimpleFunction.asm", "/home/mkl/Dropbox/Datamatiker/4semester/IoT/nand2tetris-emu/projects/08/FunctionCalls/SimpleFunction")
-
-#vm --> asm --> .hack
-
-#options
-#1)make write_file

@@ -25,6 +25,9 @@
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
+
+/home/mkl/Dropbox/Datamatiker/4semester/IoT/nand2tetris-emu/projects/07/.idea
+
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
