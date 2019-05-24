@@ -1,7 +1,7 @@
 ** Overview
 intro here
 
-![alt text](https://github.com/mklindtner/computerScratch/blob/master/pictures/overview_simple.png|alt=overview)
+![alt text](https://github.com/mklindtner/computerScratch/blob/master/pictures/overview_simple.png)
 
 
 project 01-05: computer architecture
