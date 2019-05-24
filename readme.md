@@ -58,10 +58,11 @@ Each asbtraction goes through a chapter, however a chapter might present the nex
     - using the terminal line call ``` "python3.5 dest/to/jackcompiler/jackcompiler.py input/input.jack" ```
 
 
-book: *link to book here / *www.nand2tetris.org
 
 TODO:
 
+
+fix "extra" github proj in this proj
 create gitignore and remove wierd pycharm stuff
 chap 6-7-8-10-11
 make "OS" folder
