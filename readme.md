@@ -56,21 +56,10 @@ Each asbtraction goes through a chapter, however a chapter might present the nex
   - overview
     - the folder "JackCompiler" consists of the solution for the chapter (my code)
     - using the terminal line call ``` "python3.5 dest/to/jackcompiler/jackcompiler.py input/input.jack" ```
-
+    - The folder/file to compile must lie in the same dest as JackCompiler.py
 
 
 TODO:
 
-
-fix "extra" github proj in this proj
-create gitignore and remove wierd pycharm stuff
-chap 6-7-8-10-11
-make "OS" folder
-
-***make .gitignore file) make readme --> each proj, what it's about, what i did) fix compiler 10/11 to work on remote dirs
-
-
-
-
-    
-
+- [] make "OS" folder
+- [] fix issue with same dir as JackCompiler.py, should be able to give any path and execute from any path
