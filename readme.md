@@ -63,3 +63,4 @@ TODO:
 
 - [] make "OS" folder
 - [] fix issue with same dir as JackCompiler.py, should be able to give any path and execute from any path
+- [] make specc for each chapter after 5 ??
