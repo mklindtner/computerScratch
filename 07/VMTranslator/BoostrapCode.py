@@ -111,4 +111,4 @@ def _move_file_to_dist(src, dest):
 
 
 #file_or_directory("/home/mkl/Dropbox/Datamatiker/4semester/IoT/nand2tetris-emu/projects/07/MemoryAccess/BasicTest")
-file_or_directory("/home/mkl/Dropbox/Datamatiker/4semester/IoT/nand2tetris-emu/projects/08/ProgramFlow/FibonacciSeries")
+file_or_directory("/home/mkl/Dropbox/Datamatiker/4semester/IoT/nand2tetris-emu/projects/07/StackArithmetic/SimpleAdd")
