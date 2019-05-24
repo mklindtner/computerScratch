@@ -1,5 +1,5 @@
-** Overview
-intro here
+# Introduction
+The purpose of this course is to build a full-scale computer, from the very bottom of computing to the a high-level OOP language, the name of the course is [nand2tetris](https://nand2tetris.org). Below is an depicting each step in the process, notice that each step is merely an abstracting, each time becoming more readable.
 
 ![alt text](https://github.com/mklindtner/computerScratch/blob/master/pictures/overview_simple.png)
 
