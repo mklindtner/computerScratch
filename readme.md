@@ -1,3 +1,7 @@
+** Overview
+intro here
+
+
 project 01-05: computer architecture
  *emulators
      *uses hardwaresimulator from nand2tetris-emu/installDir
@@ -28,6 +32,9 @@ project 10-11: Jack Compiler
 
 
 book: *link to book here / *www.nand2tetris.org
+
+
+
 
     
 
