@@ -1,10 +1,10 @@
 # Introduction
-The purpose of this course is to build a full-scale computer, from the very bottom of computing to the a high-level OOP language, the name of the course is [nand2tetris](https://nand2tetris.org) and was solved using the [book](https://www.nand2tetris.org/book), [forum](http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/) and [videos](https://www.youtube.com/watch?v=KBTg0ju4rxM&list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh&index=1). Below is an depicting each step in the process, notice that each step is merely an abstracting, each time becoming more readable. 
-I choose not to implement the last chapter about Operation System (12). Project 9 also do not have a mention as it's simply learning the jack langauge.
+This is a completion of the course [nand2tetris](https://nand2tetris.org).
+For which The purpose of is to build a full-scale computer, starting from a nand chip and ending in a high-level OOP language, the name of the course is. Below is an depicting of each step in the process.
 
 ![alt text](https://github.com/mklindtner/computerScratch/blob/master/pictures/overview_simple.png)
 
-Each asbtraction goes through a chapter, however a chapter might present the next abstraction before asking to build it. Here is an overview w. appropriate chapter.
+Each abstraction goes through a chapter, however a chapter might present the next abstraction before asking to build it. Here is an overview w. appropriate chapter.
 
 ![overview-chapters](https://github.com/mklindtner/computerScratch/blob/master/pictures/overview_detailed.png).
 
