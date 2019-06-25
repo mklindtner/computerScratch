@@ -4,7 +4,7 @@ For which The purpose of is to build a full-scale computer, starting from a nand
 
 ![alt text](https://github.com/mklindtner/computerScratch/blob/master/pictures/overview_simple.png)
 
-Each abstraction goes through a chapter, however a chapter might present the next abstraction before asking to build it. Here is an overview w. appropriate chapter.
+Each abstraction goes through a chapter, a chapter might present the next abstraction before asking to build it. Here is an overview w. appropriate chapters.
 
 ![overview-chapters](https://github.com/mklindtner/computerScratch/blob/master/pictures/overview_detailed.png).
 
@@ -57,10 +57,3 @@ Each abstraction goes through a chapter, however a chapter might present the nex
     - the folder "JackCompiler" consists of the solution for the chapter (my code)
     - using the terminal line call ``` "python3.5 dest/to/jackcompiler/jackcompiler.py input/input.jack" ```
     - The folder/file to compile must lie in the same dest as JackCompiler.py
-
-
-TODO:
-
-- [] make "OS" folder
-- [] fix issue with same dir as JackCompiler.py, should be able to give any path and execute from any path
-- [] make specc for each chapter after 5 ??
