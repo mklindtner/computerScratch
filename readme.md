@@ -26,7 +26,7 @@ Each abstraction goes through a chapter, a chapter might present the next abstra
  - uses the tool "Digital"
     - pictures displaying the wiring logic of some chips.
     - all chips are made in the hdl language, but Digital allows for a better mental image.
-    - drawins for the respective chapter can be found under "digital-drawings" in said chapter
+    - drawings for the respective chapter can be found under "digital-drawings" in said chapter
 
 ## project 06: Assembler-Hack
  - emulators
